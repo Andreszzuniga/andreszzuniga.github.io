@@ -15,13 +15,13 @@ main:
    # url: /talks/    
 
   - title: "Cursos"
-    url: /teaching/    
+    url: /cursos/    
     
    # - title: "Portfolio"
    # url: /portfolio/
         
   - title: "Apuntes"
-    url: /year-archive/
+    url: /apuntes/
     
   - title: "CV"
     url: /cv/
