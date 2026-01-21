@@ -2,7 +2,7 @@
 title: "Lenguaje Matemático"
 layout: single
 collection: items
-permalink: /items/MA-0150-Principios-de-matematica/lenguaje-matematico/
+permalink: /items/MA-0150-Principios-de-matematica/tema01-logica-basica/lenguaje-matematico/
 course: "Principios-de-matematica"
 kind: "apunte"
 order: 1
