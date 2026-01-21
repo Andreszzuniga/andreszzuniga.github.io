@@ -5,7 +5,7 @@ permalink: /items/MA-0150-Principios-de-matematica/lenguaje-matematico/
 course: "Principios-de-matematica"
 kind: "apunte"
 order: 2
-# output: html_document
+output: html_document
 ---
 
 
