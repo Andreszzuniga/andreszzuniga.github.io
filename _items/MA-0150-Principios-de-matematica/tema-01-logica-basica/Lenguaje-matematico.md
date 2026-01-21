@@ -1,11 +1,11 @@
 ---
 title: "Lenguaje Matemático"
 layout: single
+collection: items
 permalink: /items/MA-0150-Principios-de-matematica/lenguaje-matematico/
 course: "Principios-de-matematica"
 kind: "apunte"
-order: 2
-output: html_document
+order: 1
 ---
 
 
