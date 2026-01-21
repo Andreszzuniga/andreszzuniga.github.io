@@ -236,6 +236,9 @@ collections:
   items:
     output: true
     permalink: /items/:path/
+  cursos:
+    output: true
+    permalink: /cursos/:path
 
 
 # These settings control how pages and collections are included in the site
