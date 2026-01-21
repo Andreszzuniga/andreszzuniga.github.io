@@ -1,6 +1,6 @@
 ---
 title: "Principios de Matemática - MA-0150"
-collection: teaching
+collection: Cursos
 type: "Curso"
 permalink: /cursos/ma-0150/
 ---
