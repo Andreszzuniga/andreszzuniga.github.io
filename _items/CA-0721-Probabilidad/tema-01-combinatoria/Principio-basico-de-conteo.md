@@ -12,7 +12,7 @@ order: 1
 
 ## Definición
 
-Suponga que dos experimentos son realizados. Si el experimento 1 tiene $m$ posibles resultados y para cada resultado del experimento 1 hay $n$ posibles resultados del experimento 2, entonces hay $mn$ posibles resultados entre los dos experimentos. 
+Suponga que dos experimentos son realizados. Si el experimento 1 tiene $ m $ posibles resultados y para cada resultado del experimento 1 hay $n$ posibles resultados del experimento 2, entonces hay $mn$ posibles resultados entre los dos experimentos. 
 
 ### Ejemplo
 
